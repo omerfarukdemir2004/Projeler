@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iş takip formu", "iş takip formu\iş takip formu.csproj", "{91AF5C8A-BDF6-42AB-935D-94A20E3CFBEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "İş Takip Setup", "İş Takip Setup\İş Takip Setup.vdproj", "{31A6F48F-E53F-4FB0-8A17-EF711B6A4023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91AF5C8A-BDF6-42AB-935D-94A20E3CFBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AF5C8A-BDF6-42AB-935D-94A20E3CFBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AF5C8A-BDF6-42AB-935D-94A20E3CFBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AF5C8A-BDF6-42AB-935D-94A20E3CFBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A6F48F-E53F-4FB0-8A17-EF711B6A4023}.Debug|Any CPU.ActiveCfg = Debug
+		{31A6F48F-E53F-4FB0-8A17-EF711B6A4023}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8DE5267-DC1E-4AFA-8F99-FD4F9560A11A}
+	EndGlobalSection
+EndGlobal
